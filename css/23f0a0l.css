@@ -1,0 +1,92 @@
+body {
+    background-color: rgb(39, 39, 39);
+}
+.nav {
+    background-color: rgb(24, 24, 24);
+    width: 1000px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+.logo {
+    width: 220px;
+    margin-left: 20px;
+    margin-top: 33px;
+}
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+a {
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+h5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+h6 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+.liketosay {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.image1 {
+    width: 1000px;
+    margin-left: 300px;
+}
+.text {
+    margin-left: 300px;
+}
+.textbottom {
+    margin-left: 300px;
+}
+.copyright-logo {
+    margin-left: 300px;
+    width: 200px;
+}
+.copyright-text {
+    margin-left: 300px;
+}
+.aboutus {
+    margin-left: 300px;
+}
+.about-main {
+    background: rgb(33, 33, 33);
+    width: 1000px;
+    height: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+@media(max-width: 700px) {
+    .nav {
+        width: 600px;
+    }
+    .image1 {
+        margin-left: 40px;
+        width: 600px;
+    }
+}
